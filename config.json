@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "https://github.com/iamjvydon/ALL-IN-ONE-BOT",
     "excessCommands": {
         "utility": true,
         "other": true,
